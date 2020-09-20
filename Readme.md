@@ -17,19 +17,34 @@ Two-way binding
 
 
 ## How to run :
-* STEPS :
+STEPS :
+
 1.Open a git bash shell
-2.Execute a command "https://github.com/neu-mis-info6150-spring-2019/final-project-404-not-found"
+
+2.Execute a command "https://github.com/khvr/Travcomp/"
+
 3.Open files with visual studio code in a new workspace
+
 4.Open a new teminal by right clicking on project folder
+
 5.Execute a command "npm install -g @angular/cli"
+
 6.Execute a command "npm install --save @angular/material @angular/cdk"
+
 7.Execute a command "npm install --save hammerjs"
+
 8.Execute a command "npm install --save@angular/flex-layout"
+
 9.Execute a command "nodemon" for running the email backend
+
 10.Execute a command "npm start " for running the authentication and application server.
+
 11.Execute a command "ng serve -o" to launch the code editor
+
 12.Components and services are created and HTTP client module is used to fetch data from the Nodejs server
+
 13.Right click on index.html and click on revel in explore
+
 14.Double click and execute index.html
+
 15.Enjoy the buid of the hotel booking Application
